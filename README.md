@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Rahul Roy</h1>
-<h3 align="center">A passionate Cloud & DevOps enthusiast | Computer Science graduate | AWS | Azure | CI/CD | Serverless | Docker</h3>
+<h3 align="center">A passionate Cloud & DevOps enthusiast | Computer Science graduate | AWS | CI/CD | Serverless | Docker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenrahulroy-projects&label=Profile%20views&color=0e75b6&style=flat" alt="naveenrahulroy-projects" /> </p>
 
@@ -30,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenrahulroy-projects&show_icons=true&locale=en&layout=compact" alt="naveenrahulroy-projects" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenrahulroy-projects&show_icons=true&locale=en" alt="naveenrahulroy-projects" /></p>
+
