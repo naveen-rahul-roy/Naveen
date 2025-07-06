@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I'm Naveen Rahul Roy Unnamatla
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I'm Naveen Rahul Roy 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Multi-Cloud+DevOps+Engineer+%F0%9F%8C%A9%EF%B8%8F%E2%9A%A1;AWS+%7C+Azure+%7C+GCP+Solutions+Architect+%E2%98%81%EF%B8%8F;Kubernetes+%26+Container+Orchestration+%F0%9F%90%B3;CI%2FCD+Pipeline+Automation+Master+%F0%9F%9A%80;Infrastructure+as+Code+Evangelist+%F0%9F%A4%96;Cloud+Native+%7C+Serverless+%7C+Microservices+%F0%9F%94%A5" alt="Typing SVG" />
