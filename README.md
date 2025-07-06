@@ -418,16 +418,6 @@
   <img src="https://img.shields.io/github/stars/naveenrahulroy-projects?style=for-the-badge&color=FF6B6B&labelColor=0D1117&label=Stars" alt="Stars"/>
 </div>
 
-### 💝 Support My Journey
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/naveenrahulroy">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://ko-fi.com/naveenrahulroy">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=30&lines=Thank+you+for+visiting+my+profile!+⭐;Always+open+to+collaboration+and+new+opportunities!;Let's+connect+and+build+something+amazing+together!" alt="Footer Message" />
