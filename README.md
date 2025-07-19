@@ -1,133 +1,181 @@
-# Naveen Rahul Roy: Architecting Tomorrow's Multi-Cloud Realities
+# Naveen Rahul Roy: Building Tomorrow's Cloud Solutions
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Crafting+Scalable%2C+Secure%2C+Cost-Optimized+Cloud+Infrastructure;Multi-Cloud+Solutions+Architect+%7C+DevOps+Automation+Maestro;Kubernetes+%26+Cloud-Native+Innovator;CI%2FCD+Pipelines+%7C+Infrastructure+as+Code;AWS+%7C+Azure+%7C+GCP+Expert" alt="Dynamic Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Aspiring+Cloud+%26+DevOps+Engineer;Automating+Infrastructure+with+Code;Passionate+about+Scalable+Solutions;Building+on+AWS%2C+Azure%2C+%26+GCP;Continuous+Learner+%26+Innovator" alt="Dynamic Introduction" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=350&section=header&text=Welcome%20to%20my%20Cloud%20Nexus&fontSize=60&fontAlignY=35&desc=Where%20Innovation%20Meets%20Infrastructure%20Excellence&descAlignY=55&descSize=25&animation=fadeIn" alt="Welcome to my Cloud Nexus Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=300&section=header&text=Welcome%20to%20my%20Cloud%20Nexus&fontSize=55&fontAlignY=35&desc=Where%20Innovation%20Meets%20Infrastructure%20Excellence&descAlignY=55&descSize=22&animation=fadeIn" alt="Welcome to my Cloud Nexus Banner"/>
+</div>
+
+<div align="center">
+  <a href="mailto:naveenrahulroy1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/naveen-rahul-roy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/naveenrahulroy-projects" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.credly.com/users/naveenrahulroy-unnamatla/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-f26922?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
+  </a>
 </div>
 
 ---
 
 ## About Me
 
-I'm **Naveen Rahul Roy**, a focused Multi-Cloud DevOps Engineer passionate about building resilient, scalable, and cost-optimized infrastructure across AWS, Azure, and GCP. Currently pursuing a B.Tech in Computer Science and Design, I bring both academic rigor and hands-on expertise to enterprise cloud solutions.
+I'm **Naveen Rahul Roy**, a driven Cloud & DevOps enthusiast passionate about building resilient, scalable, and cost-optimized infrastructure. Currently pursuing a B.Tech in Computer Science and Design, I merge academic rigor with hands-on expertise to deliver effective cloud solutions.
 
-**Core Areas of Expertise:**
-
-* **Multi-Cloud Strategy & Architecture**
-* **DevOps Automation & CI/CD Pipelines**
-* **Kubernetes & Serverless Architectures**
-* **Infrastructure as Code (Terraform, Ansible)**
-* **Cloud Cost Optimization (FinOps)**
-* **Cloud Security & Governance**
-
-**Certifications (select):**
-
-* AWS Bedrock & Prompt Engineering
-* AWS Lambda & Serverless Architectures
-* Azure Fundamentals
-* Terraform Associate (in-progress)
+- ☁️ **Cloud Platforms:** Eager to build and manage environments on **AWS, Azure, and GCP**.
+- ⚙️ **Automation:** Mastering CI/CD pipelines and Infrastructure as Code (Terraform, Ansible) to accelerate delivery.
+- 🚀 **Innovation:** Learning and applying Kubernetes, Serverless, and Cloud-Native technologies to build for the future.
+- 💰 **FinOps:** Developing skills in cost optimization and governance frameworks to maximize cloud ROI.
 
 ---
 
-## Connect with Me
+## My Tech Arsenal
 
-* 📧 [Email](mailto:naveenrahulroy1@gmail.com)
-* 💼 [LinkedIn](https://linkedin.com/in/naveen-rahul-roy)
-* 🛠️ [GitHub](https://github.com/naveenrahulroy-projects)
-* 🧾 [Credly](https://www.credly.com/users/naveenrahulroy-unnamatla/badges)
-
----
-
-## Tech Stack Highlights
-
-### Cloud Platforms
-
-AWS | Azure | GCP | Lambda | EC2 | S3 | IAM | VPC | Route53 | CloudWatch
-
-### DevOps & Automation
-
-Jenkins | GitHub Actions | Docker | Kubernetes | Terraform | Ansible | ArgoCD | Prometheus | Grafana | ELK Stack
-
-### Programming & Scripting
-
-Python | Bash | JavaScript | PowerShell | YAML | JSON | HCL
-
-### Frontend & Web
-
-HTML | CSS | React | TailwindCSS | Next.js | Node.js
-
-### Databases & Storage
-
-MySQL | PostgreSQL | MongoDB | Redis | S3 | Azure Blob | GCS
-
----
-
-## Projects
-
-### Secure Multi-Tier AWS VPC Infrastructure
-
-* Hardened and scalable architecture
-* IAM least privilege
-* Achieved 25% AWS cost reduction
-
-### Intelligent CI/CD Pipeline
-
-* Docker, Jenkins, GitHub-integrated
-* Automated testing & blue-green deployment
-* Improved release cycles by 85%
-
-### Serverless Event-Driven Processing
-
-* Fully decoupled architecture using Lambda, S3, API Gateway, DynamoDB
-* 60% OpEx savings vs traditional compute
-
-### AI-Driven Observability Platform
-
-* Prometheus + Grafana + CloudWatch
-* Self-healing workflows with under 30 sec alert resolution
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /><br><strong>AWS</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /><br><strong>Azure</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" /><br><strong>GCP</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" /><br><strong>Kubernetes</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br><strong>Docker</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" /><br><strong>Terraform</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" /><br><strong>Ansible</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" /><br><strong>Bash</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br><strong>Jenkins</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" /><br><strong>GH Actions</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" /><br><strong>Prometheus</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" /><br><strong>Grafana</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br><strong>React</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Certifications & Roadmap
+## Featured Projects
 
-**Completed:**
+<details>
+<summary><strong>Secure Multi-Tier AWS VPC Infrastructure</strong></summary>
+<br>
+Designed a hardened and scalable network architecture with strict IAM least-privilege principles, resulting in a robust foundation for enterprise applications.
+<ul>
+  <li><strong>Technologies:</strong> AWS VPC, IAM, S3, NACLs, Security Groups</li>
+  <li><strong>Impact:</strong> Achieved a 25% reduction in AWS costs through resource optimization and secure design.</li>
+</ul>
+</details>
 
-* AWS: Bedrock, Serverless
+<details>
+<summary><strong>Intelligent CI/CD Pipeline Automation</strong></summary>
+<br>
+Engineered a fully automated pipeline with integrated testing and deployment strategies, significantly reducing manual intervention and error rates.
+<ul>
+  <li><strong>Technologies:</strong> Docker, Jenkins, GitHub Actions, Kubernetes</li>
+  <li><strong>Impact:</strong> Improved release cycle velocity by 85%.</li>
+</ul>
+</details>
 
-**Pursuing:**
+<details>
+<summary><strong>Serverless Event-Driven Processing System</strong></summary>
+<br>
+Built a fully decoupled, event-driven architecture for high-throughput data processing, eliminating server management overhead.
+<ul>
+  <li><strong>Technologies:</strong> AWS Lambda, S3, API Gateway, DynamoDB</li>
+  <li><strong>Impact:</strong> Delivered over 60% operational expenditure savings compared to traditional compute models.</li>
+</ul>
+</details>
 
-* AWS Solutions Architect Professional
-* Azure DevOps Expert
-* Kubernetes CKA/CKAD
+<details>
+<summary><strong>AI-Driven Observability & Self-Healing Platform</strong></summary>
+<br>
+Implemented a proactive monitoring solution that uses machine learning to predict failures and trigger automated remediation workflows.
+<ul>
+  <li><strong>Technologies:</strong> Prometheus, Grafana, CloudWatch, Python, Ansible</li>
+  <li><strong>Impact:</strong> Reduced Mean Time to Resolution (MTTR) for critical alerts to under 30 seconds.</li>
+</ul>
+</details>
 
 ---
 
-## 2024 Objectives
+## My Learning & Development Journey
 
-* ✅ Master Kubernetes (CKA/CKAD)
-* ✅ Implement GitOps workflows
-* ✅ Lead FinOps and cost governance
-* ✅ Publish 20+ technical blogs
-* ✅ Contribute to open source and mentor 50+ engineers
+<table>
+  <thead>
+    <tr>
+      <th>✅ Completed</th>
+      <th>⏳ In Progress / Pursuing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AWS Bedrock & Prompt Engineering</td>
+      <td>AWS Solutions Architect - Associate</td>
+    </tr>
+    <tr>
+      <td>AWS Lambda & Serverless Architectures</td>
+      <td>Azure Fundamentals (AZ-900)</td>
+    </tr>
+    <tr>
+      <td>Terraform Associate (HashiCorp)</td>
+      <td>Certified Kubernetes Administrator (CKA)</td>
+    </tr>
+     <tr>
+      <td>(Self-Study) DevOps Fundamentals</td>
+      <td>Certified Kubernetes Application Developer (CKAD)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveenrahulroy-projects&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveenrahulroy-projects&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenrahulroy-projects&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveenrahulroy-projects&theme=react-dark&hide_border=true" />
 </div>
 
 ---
 
-## Quote
+> "The cloud is not a place, it's a way of doing IT." — Paul Maritz
 
-> "The cloud is not a place, it's a way of doing IT" — Paul Maritz
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveenrahulroy-projects&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
