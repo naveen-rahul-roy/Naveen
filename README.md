@@ -1,4 +1,4 @@
-## Naveen Rahul Roy: Architecting Tomorrow's Multi-Cloud Realities
+# Naveen Rahul Roy: Architecting Tomorrow's Multi-Cloud Realities
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Crafting+Scalable%2C+Secure%2C+Cost-Optimized+Cloud+Infrastructure;Multi-Cloud+Solutions+Architect+%7C+DevOps+Automation+Maestro;Kubernetes+%26+Cloud-Native+Innovator;CI%2FCD+Pipelines+%7C+Infrastructure+as+Code;AWS+%7C+Azure+%7C+GCP+Expert" alt="Dynamic Introduction" />
@@ -10,106 +10,124 @@
 
 ---
 
-## About Me: Building Cloud Systems of Tomorrow
+## About Me
 
-I'm **Naveen Rahul Roy**, a **Multi-Cloud DevOps Engineer** focused on designing secure, scalable, and efficient cloud infrastructures using AWS, Azure, and GCP. Currently pursuing a B.Tech in Computer Science and Design at SRKR Engineering College with a GPA of 8.04/10.
+I'm **Naveen Rahul Roy**, a focused Multi-Cloud DevOps Engineer passionate about building resilient, scalable, and cost-optimized infrastructure across AWS, Azure, and GCP. Currently pursuing a B.Tech in Computer Science and Design, I bring both academic rigor and hands-on expertise to enterprise cloud solutions.
 
 **Core Areas of Expertise:**
 
-* **Multi-Cloud Strategy**: Creating integrated, optimized architectures across platforms.
-* **DevOps & IaC Automation**: Leveraging CI/CD and tools like Terraform, Ansible, and Jenkins.
-* **Cloud-Native Development**: Utilizing Kubernetes, microservices, and serverless.
-* **FinOps & Optimization**: Driving performance and reducing costs.
+* **Multi-Cloud Strategy & Architecture**
+* **DevOps Automation & CI/CD Pipelines**
+* **Kubernetes & Serverless Architectures**
+* **Infrastructure as Code (Terraform, Ansible)**
+* **Cloud Cost Optimization (FinOps)**
+* **Cloud Security & Governance**
 
-**Certifications & Learning Focus:**
+**Certifications (select):**
 
-* Pursuing: AWS Solutions Architect Pro, Azure DevOps Expert
-* Developing: Advanced Kubernetes Patterns, FinOps Governance
+* AWS Bedrock & Prompt Engineering
+* AWS Lambda & Serverless Architectures
+* Azure Fundamentals
+* Terraform Associate (in-progress)
 
 ---
 
-## Connect With Me
+## Connect with Me
+
+* 📧 [Email](mailto:naveenrahulroy1@gmail.com)
+* 💼 [LinkedIn](https://linkedin.com/in/naveen-rahul-roy)
+* 🛠️ [GitHub](https://github.com/naveenrahulroy-projects)
+* 🧾 [Credly](https://www.credly.com/users/naveenrahulroy-unnamatla/badges)
+
+---
+
+## Tech Stack Highlights
+
+### Cloud Platforms
+
+AWS | Azure | GCP | Lambda | EC2 | S3 | IAM | VPC | Route53 | CloudWatch
+
+### DevOps & Automation
+
+Jenkins | GitHub Actions | Docker | Kubernetes | Terraform | Ansible | ArgoCD | Prometheus | Grafana | ELK Stack
+
+### Programming & Scripting
+
+Python | Bash | JavaScript | PowerShell | YAML | JSON | HCL
+
+### Frontend & Web
+
+HTML | CSS | React | TailwindCSS | Next.js | Node.js
+
+### Databases & Storage
+
+MySQL | PostgreSQL | MongoDB | Redis | S3 | Azure Blob | GCS
+
+---
+
+## Projects
+
+### Secure Multi-Tier AWS VPC Infrastructure
+
+* Hardened and scalable architecture
+* IAM least privilege
+* Achieved 25% AWS cost reduction
+
+### Intelligent CI/CD Pipeline
+
+* Docker, Jenkins, GitHub-integrated
+* Automated testing & blue-green deployment
+* Improved release cycles by 85%
+
+### Serverless Event-Driven Processing
+
+* Fully decoupled architecture using Lambda, S3, API Gateway, DynamoDB
+* 60% OpEx savings vs traditional compute
+
+### AI-Driven Observability Platform
+
+* Prometheus + Grafana + CloudWatch
+* Self-healing workflows with under 30 sec alert resolution
+
+---
+
+## Certifications & Roadmap
+
+**Completed:**
+
+* AWS: Bedrock, Serverless
+
+**Pursuing:**
+
+* AWS Solutions Architect Professional
+* Azure DevOps Expert
+* Kubernetes CKA/CKAD
+
+---
+
+## 2024 Objectives
+
+* ✅ Master Kubernetes (CKA/CKAD)
+* ✅ Implement GitOps workflows
+* ✅ Lead FinOps and cost governance
+* ✅ Publish 20+ technical blogs
+* ✅ Contribute to open source and mentor 50+ engineers
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="mailto:naveenrahulroy1@gmail.com"><strong>Email</strong></a> |
-  <a href="https://linkedin.com/in/naveen-rahul-roy"><strong>LinkedIn</strong></a> |
-  <a href="https://github.com/naveenrahulroy-projects"><strong>GitHub</strong></a> |
-  <a href="https://www.credly.com/users/naveenrahulroy-unnamatla/badges"><strong>Credly</strong></a> |
-  <a href="tel:+918639151051"><strong>Phone</strong></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveenrahulroy-projects&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenrahulroy-projects&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveenrahulroy-projects&theme=react-dark&hide_border=true" />
 </div>
 
 ---
 
-## Technical Proficiencies
+## Quote
 
-**Cloud Platforms:** AWS, Azure, GCP
-**DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, ArgoCD
-**Programming:** Python, Bash, PowerShell, JavaScript, Go
-**Web:** React, Next.js, TailwindCSS
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB
-**Monitoring:** Prometheus, Grafana, ELK, CloudWatch
-
----
-
-## Key Projects
-
-### Secure AWS VPC Infrastructure
-
-* Isolated multi-tier subnet design
-* IAM hardening and encrypted storage
-* Achieved 25% cost savings
-
-### Intelligent CI/CD Pipelines
-
-* Zero-downtime deployments
-* Jenkins + Docker + K8s integration
-* 85% faster releases
-
-### Serverless Processing Hub
-
-* S3 + Lambda + API Gateway
-* 10K+ requests/sec, 60% OpEx reduction
-
-### Observability Platform
-
-* CloudWatch, Grafana, Prometheus
-* AI-based auto-scaling and alerting
-
----
-
-## Achievements & Metrics
-
-* **25% AWS Cost Reduction**
-* **100% Network Uptime Maintenance**
-* **Trained 50+ Individuals** in rural digitization
-* **Organized 5+ Technical Events**
-
----
-
-## Certification Portfolio
-
-* **AWS Bedrock & Prompt Engineering**
-* **AWS Serverless Lambda**
-* (In Progress) AWS Pro Architect, Azure DevOps Expert, Kubernetes CKA
-
----
-
-## Goals for 2024
-
-* Achieve CKA & CKAD certifications
-* Implement GitOps using ArgoCD/Flux
-* Build advanced observability stack
-* Launch technical blog and mentor program
-* Lead multi-cloud transformation initiatives
-
----
-
-## Final Thought
-
-> *"The cloud is not a place, it's a way of doing IT." — Paul Maritz*
-
----
-
-<div align="center">
-  <strong>Thank you for exploring my cloud universe. Let's build the future together.</strong>
-</div>
+> "The cloud is not a place, it's a way of doing IT" — Paul Maritz
