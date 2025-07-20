@@ -18,7 +18,7 @@
   <a href="https://github.com/naveenrahulroy-projects" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.credly.com/users/naveenrahulroy-unnamatla/badges" target="_blank">
+  <a href="https://www.credly.com/users/naveen-rahul-roy" target="_blank">
     <img src="https://img.shields.io/badge/Credly-f26922?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
   </a>
 </div>
