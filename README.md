@@ -29,10 +29,10 @@
 
 I'm **Naveen Rahul Roy**, a driven Cloud & DevOps enthusiast passionate about building resilient, scalable, and cost-optimized infrastructure. Currently pursuing a B.Tech in Computer Science and Design, I merge academic rigor with hands-on expertise to deliver effective cloud solutions.
 
-- ☁️ **Cloud Platforms:** Eager to build and manage environments on **AWS, Azure, and GCP**.
-- ⚙️ **Automation:** Mastering CI/CD pipelines and Infrastructure as Code (Terraform, Ansible) to accelerate delivery.
-- 🚀 **Innovation:** Learning and applying Kubernetes, Serverless, and Cloud-Native technologies to build for the future.
-- 💰 **FinOps:** Developing skills in cost optimization and governance frameworks to maximize cloud ROI.
+-  **Cloud Platforms:** Eager to build and manage environments on **AWS, Azure, and GCP**.
+-  **Automation:** Mastering CI/CD pipelines and Infrastructure as Code (Terraform, Ansible) to accelerate delivery.
+-  **Innovation:** Learning and applying Kubernetes, Serverless, and Cloud-Native technologies to build for the future.
+-  **FinOps:** Developing skills in cost optimization and governance frameworks to maximize cloud ROI.
 
 ---
 
