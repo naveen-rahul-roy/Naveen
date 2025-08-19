@@ -168,9 +168,9 @@ Implemented a proactive monitoring solution that uses machine learning to predic
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveenrahulroy-projects&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenrahulroy-projects&theme=radical&hide_border=true" />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveenrahulroy-projects&theme=react-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveen-rahul-roy&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-rahul-roy&theme=radical&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-rahul-roy&theme=react-dark&hide_border=true" />
 </div>
 
 ---
