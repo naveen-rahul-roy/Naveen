@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/naveen-rahul-roy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/naveenrahulroy-projects">
+  <a href="https://github.com/naveen-rahul-roy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.credly.com/users/naveen-rahul-roy">
@@ -178,5 +178,5 @@ Implemented a proactive monitoring solution that uses machine learning to predic
 > "The cloud is not a place, it's a way of doing IT." — Paul Maritz
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveenrahulroy-projects&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=naveen-rahul-roy&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
