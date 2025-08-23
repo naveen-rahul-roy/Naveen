@@ -139,8 +139,8 @@ Implemented a proactive monitoring solution that uses machine learning to predic
 <table>
   <thead>
     <tr>
-      <th>✅ Completed</th>
-      <th>⏳ In Progress / Pursuing</th>
+      <th> Completed</th>
+      <th> In Progress / Pursuing</th>
     </tr>
   </thead>
   <tbody>
